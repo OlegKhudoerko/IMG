@@ -2,3 +2,6 @@
               Описание решения поставленной задачи
 
 <img src=".//IMG/block_diagram.svg " width="60%" align="right"> 
+
+123456789
+1234567678
